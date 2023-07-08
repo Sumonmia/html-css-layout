@@ -1,0 +1,57 @@
+.header{
+    height: 100px;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.container{
+    overflow: hidden;
+    
+}
+.blog{
+    float: left;
+    width: 60%;
+    height: 200px;
+    background-color: rgb(116, 209, 209);
+}
+.contact{
+    float: right;
+    width: 40%;
+    height: 200px;
+    background-color: rgb(192, 178, 164);
+}
+a{
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.service{
+    height: 150px;
+    width: 33.33%;
+    float: left;
+}
+.web{
+    background-color: aquamarine;
+}
+.app{
+    background-color: aqua;
+}
+.security{
+    background-color: rgb(117, 159, 145);
+}
+h3{
+    padding-top: 40px;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    background-color: rgb(181, 171, 156);
+}
+img, h2{
+    display: inline-block;
+}
+address{
+    padding-top: 20px;
+}
